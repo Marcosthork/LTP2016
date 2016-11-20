@@ -5,12 +5,6 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLTPAulas", "SistemaLTPAulas\SistemaLTPAulas.csproj", "{9C57FD51-EE80-4151-8E05-55A0D1745E2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaTesteAulaLTP", "..\..\..\..\Documents\Visual Studio 2015\Projects\SistemaTesteAulaLTP\SistemaTesteAulaLTP\SistemaTesteAulaLTP.csproj", "{28E736B0-CDF0-4CE9-9A6A-3B1D2A37CD41}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "..\..\..\..\Documents\Visual Studio 2015\Projects\SistemaTesteAulaLTP\Persistencia\Persistencia.csproj", "{23C8CB25-48C4-4510-ACC6-3938839FB441}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "..\..\..\..\Documents\Visual Studio 2015\Projects\SistemaTesteAulaLTP\Negocio\Negocio.csproj", "{BF768EAA-446C-42CA-BEEE-74FA41859E80}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,18 +15,6 @@ Global
 		{9C57FD51-EE80-4151-8E05-55A0D1745E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C57FD51-EE80-4151-8E05-55A0D1745E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C57FD51-EE80-4151-8E05-55A0D1745E2C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28E736B0-CDF0-4CE9-9A6A-3B1D2A37CD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28E736B0-CDF0-4CE9-9A6A-3B1D2A37CD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28E736B0-CDF0-4CE9-9A6A-3B1D2A37CD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28E736B0-CDF0-4CE9-9A6A-3B1D2A37CD41}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23C8CB25-48C4-4510-ACC6-3938839FB441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23C8CB25-48C4-4510-ACC6-3938839FB441}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23C8CB25-48C4-4510-ACC6-3938839FB441}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23C8CB25-48C4-4510-ACC6-3938839FB441}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BF768EAA-446C-42CA-BEEE-74FA41859E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF768EAA-446C-42CA-BEEE-74FA41859E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BF768EAA-446C-42CA-BEEE-74FA41859E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BF768EAA-446C-42CA-BEEE-74FA41859E80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
