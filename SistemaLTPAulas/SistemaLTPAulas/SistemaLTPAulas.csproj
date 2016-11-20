@@ -75,9 +75,97 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="frm2ºTIIAMostraListaPreenchida.aspx" />
+    <Content Include="frmAulaListaEstrutura.aspx" />
+    <Content Include="frmCadAluno.aspx" />
+    <Content Include="frmEstruturaDadosAvancado.aspx" />
+    <Content Include="frmGravaTexto.aspx" />
+    <Content Include="frmGridView.aspx" />
+    <Content Include="frmGridView2ºTIIB.aspx" />
+    <Content Include="frmManipulaLista.aspx" />
+    <Content Include="frmMostraListas.aspx" />
+    <Content Include="frmPegaSession.aspx" />
+    <Content Include="frmSession.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frm2ºTIIAMostraListaPreenchida.aspx.cs">
+      <DependentUpon>frm2ºTIIAMostraListaPreenchida.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frm2ºTIIAMostraListaPreenchida.aspx.designer.cs">
+      <DependentUpon>frm2ºTIIAMostraListaPreenchida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAulaListaEstrutura.aspx.cs">
+      <DependentUpon>frmAulaListaEstrutura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAulaListaEstrutura.aspx.designer.cs">
+      <DependentUpon>frmAulaListaEstrutura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadAluno.aspx.cs">
+      <DependentUpon>frmCadAluno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCadAluno.aspx.designer.cs">
+      <DependentUpon>frmCadAluno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstruturaDadosAvancado.aspx.cs">
+      <DependentUpon>frmEstruturaDadosAvancado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEstruturaDadosAvancado.aspx.designer.cs">
+      <DependentUpon>frmEstruturaDadosAvancado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmGravaTexto.aspx.cs">
+      <DependentUpon>frmGravaTexto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGravaTexto.aspx.designer.cs">
+      <DependentUpon>frmGravaTexto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmGridView.aspx.cs">
+      <DependentUpon>frmGridView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGridView.aspx.designer.cs">
+      <DependentUpon>frmGridView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmGridView2ºTIIB.aspx.cs">
+      <DependentUpon>frmGridView2ºTIIB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmGridView2ºTIIB.aspx.designer.cs">
+      <DependentUpon>frmGridView2ºTIIB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmManipulaLista.aspx.cs">
+      <DependentUpon>frmManipulaLista.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmManipulaLista.aspx.designer.cs">
+      <DependentUpon>frmManipulaLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostraListas.aspx.cs">
+      <DependentUpon>frmMostraListas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMostraListas.aspx.designer.cs">
+      <DependentUpon>frmMostraListas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPegaSession.aspx.cs">
+      <DependentUpon>frmPegaSession.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmPegaSession.aspx.designer.cs">
+      <DependentUpon>frmPegaSession.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSession.aspx.cs">
+      <DependentUpon>frmSession.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSession.aspx.designer.cs">
+      <DependentUpon>frmSession.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
