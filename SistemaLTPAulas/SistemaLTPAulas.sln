@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLTPAulas", "SistemaLTPAulas\SistemaLTPAulas.csproj", "{9C57FD51-EE80-4151-8E05-55A0D1745E2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{02978417-A241-4E0B-B357-0ABB583BBC1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{9758DD9A-5FF5-4C7B-91DF-123D6BB3F844}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9C57FD51-EE80-4151-8E05-55A0D1745E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C57FD51-EE80-4151-8E05-55A0D1745E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C57FD51-EE80-4151-8E05-55A0D1745E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02978417-A241-4E0B-B357-0ABB583BBC1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02978417-A241-4E0B-B357-0ABB583BBC1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02978417-A241-4E0B-B357-0ABB583BBC1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02978417-A241-4E0B-B357-0ABB583BBC1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9758DD9A-5FF5-4C7B-91DF-123D6BB3F844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758DD9A-5FF5-4C7B-91DF-123D6BB3F844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758DD9A-5FF5-4C7B-91DF-123D6BB3F844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758DD9A-5FF5-4C7B-91DF-123D6BB3F844}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
