@@ -40,13 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AulaListaEstrutura.cs" />
-    <Compile Include="Class2.cs" />
-    <Compile Include="EstruturaDadosAvancado.cs" />
-    <Compile Include="ITeste.cs" />
-    <Compile Include="ListasColecoes.cs" />
-    <Compile Include="TesteEstruturaDeDados.cs" />
-    <Compile Include="Usuarios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
